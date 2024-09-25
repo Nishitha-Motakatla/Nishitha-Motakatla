@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nishitha-Motakatla
-- 👀 I’m interested in sports, hockey is my all time favorite.
-- 🌱 I’m currently learning content writng
+- 👀 I’m interested in cyber-security and would like to learn more about the current scenarios and the importance of cyber security.
 - 💞️ I’m looking to collaborate on cybersecurity with sports
 - 📫 How to reach me : nishitha267@gmail.com
 
